@@ -1,0 +1,7 @@
+# environments
+.venv
+venv/
+venv.bak/
+
+# output file
+coffee_iot.csv
