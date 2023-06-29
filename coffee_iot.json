@@ -1,0 +1,30 @@
+[
+    {
+      "EventId": 123,
+      "Timestamp": "2023-01-01T12:00.000Z",
+      "Type": "Coffee-making Started",
+      "CustomerId": "xkcd8675309",
+      "Ip_address": "178.16.16.01"
+    },
+    {
+      "EventId": 456,
+      "Timestamp": "2023-01-01T12:10.000Z",
+      "Type": "Coffee-making Finished",
+      "CustomerId": "xkcd8675309",
+      "Ip_address": "178.16.16.01"
+    },
+    {
+      "EventId": 789,
+      "Timestamp": "2023-01-02T12:00.000Z",
+      "Type": "Coffee-making Started",
+      "CustomerId": "rdaa2311380",
+      "Ip_address": "164.10.10.01"
+    },
+    {
+      "EventId": 789,
+      "Timestamp": "2023-01-02T12:00.000Z",
+      "Type": "Coffee-making Started",
+      "CustomerId": "rdaa2311380",
+      "Ip_address": "164.10.10.01"
+    }
+  ]
